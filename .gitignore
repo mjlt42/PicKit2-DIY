@@ -7,8 +7,11 @@
 *.kicad_sch-bak
 *.sch-bak
 
+
 *.kicad_user
 fp-info-cache
+fp-lib-table
+sym-lib-table
 
 _autosave-*
 *.kicad_prl
@@ -28,3 +31,4 @@ _autosave-*
 
 .DS_Store
 Thumbs.db
+__pycache__/
