@@ -4956,7 +4956,7 @@
 			)
 		)
 	)
-	(global_label "9"
+	(global_label "7"
 		(shape input)
 		(at 213.36 120.65 270)
 		(fields_autoplaced yes)
