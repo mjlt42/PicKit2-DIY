@@ -6107,7 +6107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:MFR02SF1000A10"
+		(property "Footprint" "JLCImport:MFR0W4F1000A50"
 			(at 193.294 49.784 90)
 			(effects
 				(font
@@ -8014,7 +8014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:MFR02SF1000A10"
+		(property "Footprint" "JLCImport:MFR0W4F1000A50"
 			(at 204.724 47.244 90)
 			(effects
 				(font
@@ -8082,7 +8082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:MFR02SF1000A10"
+		(property "Footprint" "JLCImport:MFR0W4F1000A50"
 			(at 212.344 52.324 90)
 			(effects
 				(font
@@ -9804,7 +9804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLCImport:MFR02SF1000A10"
+		(property "Footprint" "JLCImport:MFR0W4F1000A50"
 			(at 223.266 94.234 90)
 			(effects
 				(font
