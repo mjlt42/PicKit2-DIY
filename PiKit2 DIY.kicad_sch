@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "24d22adf-2645-4b44-b8e7-04d308f8bac2")
 	(paper "A4")
+	(title_block
+		(title "PicKit 2 DIY Clone")
+		(date "2026-08-13")
+		(rev "1.0")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x06_Socket"
 			(pin_names
