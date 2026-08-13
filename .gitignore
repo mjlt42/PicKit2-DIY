@@ -32,3 +32,4 @@ _autosave-*
 .DS_Store
 Thumbs.db
 __pycache__/
+*.zip

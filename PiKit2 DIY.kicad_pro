@@ -60,22 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|189540000|87790000|c7c04e09-01af-46d5-8a40-8c273f0d9941|e6df27c7-3974-4ce4-99ec-3b757c05fc64",
-          ""
-        ],
-        [
-          "hole_clearance|189740000|87790000|0545f245-96c3-46b1-be8c-f02b709efe15|e6df27c7-3974-4ce4-99ec-3b757c05fc64",
-          ""
-        ],
-        [
-          "hole_clearance|195140000|87790000|2312feaa-df1c-48e1-ba1b-e9e903452149|7481bc46-38c2-43d3-b4f9-8790bac53c9c",
-          ""
-        ],
-        [
-          "hole_clearance|195340000|87790000|2509b8ce-624f-425c-a193-c85eb97dacae|7481bc46-38c2-43d3-b4f9-8790bac53c9c",
-          ""
-        ],
-        [
           "starved_thermal|189090000|87140000|697daa02-f8f9-4448-a798-e73e11995217|87c6276b-c01c-4126-9e34-77cb3557a65c|F.Cu",
           ""
         ],
@@ -539,7 +523,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Pikit2 DIY Production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
