@@ -29,6 +29,9 @@ _autosave-*
 *.rpt
 *.lck
 
+*.json
+*.ipc
+
 .DS_Store
 Thumbs.db
 __pycache__/
